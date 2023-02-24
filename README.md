@@ -43,3 +43,8 @@ cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter
 
 
 
+## Authors
+
+- [@AtaUmutOZSOY](https://github.com/AtaUmutOZSOY)
+
+
