@@ -38,7 +38,7 @@ cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/37904413/221220027-fb504b79-508a-4a8c-85d0-f0e638f90d61.png">
 
 
 
