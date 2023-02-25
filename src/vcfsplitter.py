@@ -2,7 +2,7 @@ import os
 import re
 import tkinter as tk
 from tkinter import filedialog
-
+from tkinter import messagebox
 
 class VCFChromSplitter:
     def __init__(self, input_vcf_path,output_path):
@@ -33,7 +33,7 @@ class VCFChromSplitter:
         for chrom_file in self.chrom_files.values():
             chrom_file.close()
 
-
+        messagebox.showinfo("Success","VCF File has been splitted")
 
 
 
