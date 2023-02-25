@@ -2,7 +2,7 @@
 
 
 This repository was created for the Genoks Genetic Diseases Assessment 
-Center interview. 
+Center interview. You can find source code in 'src/vcfsplitter.py'
 
 Designed and tested for Windows and MacOS.
 
