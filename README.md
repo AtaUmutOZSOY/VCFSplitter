@@ -58,7 +58,7 @@ Designed and tested for Windows and MacOS.
 ```
 Open your Terminal
 
-cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter
+cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter/src
 
 ./python3 VCFSplitter.py
 
@@ -71,7 +71,7 @@ cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter
 ```
 Open your CMD, Git Bash or Windows Powershell
 
-cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter
+cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter/src
 
 ./python3 VCFSplitter.py
 ```
