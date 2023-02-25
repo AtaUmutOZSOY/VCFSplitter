@@ -15,7 +15,6 @@ Designed and tested for Windows and MacOS.
 ```bash
   cd /Users/{"YourUserName"}/Desktop
   git clone https://github.com/AtaUmutOZSOY/VCFSplitter.git
-
 ```
 
 #### Installing Requiretments
@@ -29,7 +28,7 @@ Designed and tested for Windows and MacOS.
 ### Windows
 
 ```bash
-  cd /Users/{"YourUserName"}/Desktop
+  cd C:/Users/{"YourUserName"}/Desktop
   git clone https://github.com/AtaUmutOZSOY/VCFSplitter.git
 
 ```
@@ -37,16 +36,15 @@ Designed and tested for Windows and MacOS.
 #### Clone Repository
 
 ```bash
-  cd /Users/{"YourUserName"}/Desktop
+  cd C:/Users/{"YourUserName"}/Desktop
   git clone https://github.com/AtaUmutOZSOY/VCFSplitter.git
-
 ```
 
 #### Installing Requiretments
 
 
 ```bash
-  cd /Users/{"YourUserName"}/Desktop/VCFSplitter
+  cd C:/Users/{"YourUserName"}/Desktop/VCFSplitter
   pip install -r requirements.txt or pip3 install -r requirements.txt
 ```
 # Usage/Examples
@@ -55,12 +53,12 @@ Designed and tested for Windows and MacOS.
 
 #### MacOS
 
-```
+```bash
 Open your Terminal
 
-cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter/src
+cd /Users/{"YourUserName"}/Desktop/VCFSplitter/src
 
-./python3 VCFSplitter.py
+python3 VCFSplitter.py
 
 
 ```
@@ -68,12 +66,12 @@ cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter/src
 #### Windows
 
 
-```
+```bash
 Open your CMD, Git Bash or Windows Powershell
 
-cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter/src
+cd C:/Users/{"YourUserName"}/Desktop/VCFSplitter/src
 
-./python3 VCFSplitter.py
+python3 VCFSplitter.py
 ```
 
 ## Screenshots
