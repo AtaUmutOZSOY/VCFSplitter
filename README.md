@@ -80,6 +80,8 @@ cd /Users/{"YourUserName"}/Desktop/{"IncludingFolder"}/VCFSplitter
 
 ![App 
 Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="399" alt="image" src="https://user-images.githubusercontent.com/37904413/221357325-089494d0-c714-465b-aee3-f29e69ae5a1c.png">
+
 
 
 ## Authors
